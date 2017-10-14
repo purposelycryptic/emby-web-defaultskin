@@ -17,9 +17,9 @@ define(['playbackManager', 'skinManager', 'userSettings', 'pluginManager', 'brow
 
         var self = this;
 
-        self.name = 'Default Skin';
+        self.name = 'Test Skin 1';
         self.type = 'skin';
-        self.id = 'defaultskin';
+        self.id = 'pctestskin1';
 
         var settingsObjectName = self.id + '/skinsettings';
 
