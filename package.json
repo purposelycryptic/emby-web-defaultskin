@@ -1,10 +1,10 @@
 {
-    "name": "emby.defaultskin",
-    "displayName": "Default Skin",
+    "name": "emby.pctestskin1",
+    "displayName": "Test Skin 1",
     "version": "1.0.0",
-    "description": "The default Emby skin.",
+    "description": "A Testing Ground for Emby skinning.",
     "plugin": "plugin.js",
-    "homepage": "https://github.com/MediaBrowser/emby-web-defaultskin",
+    "homepage": "https://github.com/purposelycryptic/emby-web-testskin",
     "thumb": "",
     "backdrop": ""
 }
